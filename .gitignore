@@ -71,6 +71,7 @@ local.properties
 ######################
 .DS_Store
 .DS_Store?
+Icon?
 ._*
 .Spotlight-V100
 .Trashes
