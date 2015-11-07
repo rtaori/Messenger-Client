@@ -1,3 +1,7 @@
+package src;
+
+/** CHAT APP - CLIENT SIDE **/
+
 import javax.swing.JOptionPane;
 
 public class ClientRun {
